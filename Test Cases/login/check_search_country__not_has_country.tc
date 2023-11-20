@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check_search_country__not_has_country</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be0f1967-6ce1-49f0-a779-4911c4f6e06c</testCaseGuid>
+</TestCaseEntity>

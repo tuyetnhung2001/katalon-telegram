@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check_national_code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa00643d-0151-4980-8f08-2625e4169626</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>93a22739-5555-4e0e-a856-e6117ee3ecf0</id>
+      <masked>false</masked>
+      <name>national_code</name>
+   </variable>
+</TestCaseEntity>
